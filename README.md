@@ -86,7 +86,7 @@ This system provides a comprehensive suite of features:
 </div>
 
 <p align="center">
-<em>Demonstrates the process to reset password, including validation prompts.</em>
+<em>Demonstrates the process to reset password and setup new user, including validation prompts.</em>
 </p>
 
 ## Technical Stack
