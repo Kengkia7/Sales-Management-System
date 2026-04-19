@@ -66,16 +66,24 @@ This system provides a comprehensive suite of features:
 
 ### OTP Flow
 
-<p align="center">
-  <!-- Step 1 -->
-  <img src="https://github.com/user-attachments/assets/e5bc2429-2a59-4993-9c69-02bc07ab834d" width="200" height="250" alt="OTP Step 1: Enter Username" style="vertical-align: bottom; margin-right: 15px;">
-  <!-- Step 2 -->
-  <img src="https://github.com/user-attachments/assets/79be9dcc-82d4-43cb-b6ae-80f6fdf60bfb" width="200" height="250" alt="OTP Step 2: Enter Phone Number" style="vertical-align: bottom; margin-right: 15px;">
-  <!-- Step 3 -->
-  <img src="https://github.com/user-attachments/assets/82b28381-c862-4fb2-965b-0cd56d990923" width="200" height="400" alt="OTP Step 3: Enter OTP" style="vertical-align: bottom; margin-right: 15px;">
-  <!-- Step 4 -->
-  <img src="https://github.com/user-attachments/assets/471f7225-1fa9-46e6-8d65-e809fe440f2e" width="200" height="250" alt="OTP Step 4: Set New Password" style="vertical-align: bottom;">
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
+    <img src="https://github.com/user-attachments/assets/e5bc2429-2a59-4993-9c69-02bc07ab834d" width="200" alt="OTP Step 1: Enter Username">
+    <p style="margin-top: 5px;">Step 1: Choose Forgot Password</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
+    <img src="https://github.com/user-attachments/assets/79be9dcc-82d4-43cb-b6ae-80f6fdf60bfb" width="200" alt="OTP Step 2: Enter Phone Number">
+    <p style="margin-top: 5px;">Step 2: Enter Username & Phone Number</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
+    <img src="https://github.com/user-attachments/assets/82b28381-c862-4fb2-965b-0cd56d990923" width="200" alt="OTP Step 3: Enter OTP">
+    <p style="margin-top: 5px;">Step 3: Enter OTP</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
+    <img src="https://github.com/user-attachments/assets/471f7225-1fa9-46e6-8d65-e809fe440f2e" width="200" alt="OTP Step 4: Set New Password">
+    <p style="margin-top: 5px;">Step 4: Set New Password</p>
+  </div>
+</div>
 
 <p align="center">
 <em>Demonstrates the process to reset password, including validation prompts.</em>
