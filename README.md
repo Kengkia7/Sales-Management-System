@@ -28,7 +28,7 @@ This system provides a comprehensive suite of features:
 
 ### Sales Dashboard Overview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77b38bcc-ee17-477a-9074-4b933ecd7446" width="500">
+  <img src="images/dashboard.png" width="500">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ This system provides a comprehensive suite of features:
 
 ### Sales Data Table with Filters
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/121d8c0f-0358-4fe7-8dbd-e5927f12b25e" width="500">
+  <img src="images/sales_list.png" width="500">
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ This system provides a comprehensive suite of features:
 
 ### Sales Data Entry Form
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ffad15bb-adff-484f-90bf-81f6ddbbcb5a" width="500">
+  <img src="images/edit_sales_target.png" width="500">
 </p>
 <p align="center">
 <em>Illustrates the interface for employees to record sales data, including validation prompts.</em>
@@ -54,11 +54,11 @@ This system provides a comprehensive suite of features:
 
 ### User Administration & Permissions
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29323a0e-8df5-4393-830a-fdbc42b22fce" width="500">
+  <img src="images/create_user.png" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2afad28c-3a7b-4c57-a5c3-90a2e2a865c7" width="500">
+  <img src="images/team_member_access.png" width="500">
 </p>
 <p align="center">
 <em>Demonstrates the process for administrators to create users and assign owner access.</em>
@@ -68,19 +68,19 @@ This system provides a comprehensive suite of features:
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
-    <img src="https://github.com/user-attachments/assets/e5bc2429-2a59-4993-9c69-02bc07ab834d" width="200" alt="OTP Step 1: Enter Username">
+    <img src="images/forgot_password.png" width="200" alt="OTP Step 1: Enter Username">
     <p style="margin-top: 5px;">Step 1: Choose Forgot Password</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
-    <img src="https://github.com/user-attachments/assets/79be9dcc-82d4-43cb-b6ae-80f6fdf60bfb" width="200" alt="OTP Step 2: Enter Phone Number">
+    <img src="images/otp_verfification_error message.png" width="200" alt="OTP Step 2: Enter Phone Number">
     <p style="margin-top: 5px;">Step 2: Enter Username & Phone Number</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
-    <img src="https://github.com/user-attachments/assets/82b28381-c862-4fb2-965b-0cd56d990923" width="200" alt="OTP Step 3: Enter OTP">
+    <img src="images/user_verification_error message.png" width="200" alt="OTP Step 3: Enter OTP">
     <p style="margin-top: 5px;">Step 3: Enter OTP</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: flex-end;">
-    <img src="https://github.com/user-attachments/assets/471f7225-1fa9-46e6-8d65-e809fe440f2e" width="200" alt="OTP Step 4: Set New Password">
+    <img src="images/change_password.png" width="200" alt="OTP Step 4: Set New Password">
     <p style="margin-top: 5px;">Step 4: Set New Password</p>
   </div>
 </div>
