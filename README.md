@@ -37,7 +37,7 @@ This system provides a comprehensive suite of features:
 
 ### Sales Data Table with Filters
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/121d8c0f-0358-4fe7-8dbd-e5927f12b25e" width="500">
+  <img src="images/dashboard.png" width="500">
 </p>
 
 <p align="center">
